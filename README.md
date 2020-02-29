@@ -4,7 +4,7 @@
 
 Cole no terminal:
 
-`git clone https://github.com/caianne/mc102`
+```git clone https://github.com/caianne/mc102```
 
 ## O que esperar
 
