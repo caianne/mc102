@@ -1,5 +1,11 @@
 # MC102Q/R - Algoritmos e Programação de Computadores - 2019.1 - Bit
 
+## Para usar
+
+Cole no terminal:
+
+`git clone https://github.com/caianne/mc102`
+
 ## O que esperar
 
 ### Aulas
